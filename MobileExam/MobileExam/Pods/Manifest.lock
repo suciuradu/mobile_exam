@@ -1,0 +1,56 @@
+PODS:
+  - Alamofire (4.8.0)
+  - BRYXBanner (0.8.3)
+  - Crashlytics (3.10.9):
+    - Fabric (~> 1.7.13)
+  - Fabric (1.7.13)
+  - IHProgressHUD (0.1.4)
+  - Starscream (3.0.6)
+  - SwifterSwift (4.6.0):
+    - SwifterSwift/AppKit (= 4.6.0)
+    - SwifterSwift/CoreGraphics (= 4.6.0)
+    - SwifterSwift/CoreLocation (= 4.6.0)
+    - SwifterSwift/Foundation (= 4.6.0)
+    - SwifterSwift/MapKit (= 4.6.0)
+    - SwifterSwift/SpriteKit (= 4.6.0)
+    - SwifterSwift/SwiftStdlib (= 4.6.0)
+    - SwifterSwift/UIKit (= 4.6.0)
+  - SwifterSwift/AppKit (4.6.0)
+  - SwifterSwift/CoreGraphics (4.6.0)
+  - SwifterSwift/CoreLocation (4.6.0)
+  - SwifterSwift/Foundation (4.6.0)
+  - SwifterSwift/MapKit (4.6.0)
+  - SwifterSwift/SpriteKit (4.6.0)
+  - SwifterSwift/SwiftStdlib (4.6.0)
+  - SwifterSwift/UIKit (4.6.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - BRYXBanner
+  - Crashlytics (~> 3.10.9)
+  - IHProgressHUD
+  - Starscream (~> 3.0.2)
+  - SwifterSwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - BRYXBanner
+    - Crashlytics
+    - Fabric
+    - IHProgressHUD
+    - Starscream
+    - SwifterSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  BRYXBanner: 8cf1b119792e1cee8d7ba107297ef89f7409bc53
+  Crashlytics: 55e24fc23989680285a21cb1146578d9d18e432c
+  Fabric: 25d0963b691fc97be566392243ff0ecef5a68338
+  IHProgressHUD: a01846bfbb581c761c79747c67b08387c3bdfae3
+  Starscream: ef3ece99d765eeccb67de105bfa143f929026cf5
+  SwifterSwift: 812ffec6f301922f5430e75be3f2939ea3a80024
+
+PODFILE CHECKSUM: 0d86a3a3ed460a54b57684adcf8a78aa043b35c3
+
+COCOAPODS: 1.5.3
